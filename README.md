@@ -185,6 +185,7 @@ Here are code snippets for some common installation methods (use only one):
   -- Module mappings created only inside explorer.
   -- Use `''` (empty string) to not create one.
   mappings = {
+    change_cwd  = '*',
     close       = 'q',
     go_in       = 'l',
     go_in_plus  = 'L',
